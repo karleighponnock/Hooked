@@ -3,14 +3,14 @@
     
 
 # How to Use Budget-Tracker:
-*The main page will display some movies and a search bar
-![Main Display](../public/assets/main.png)
- In the seach bar type a key word or movie title
- ![New Search for "Horror"](./public/assets/newsearch.png)
- While the results are loading the page will display "loading.."
- ![Loading Bar](./public/assets/loading.png)
- Finally the results of the search as rendered to the page
- ![Horror Movies](./public/assets/horror.png)
+*The main page will display some movies and a search bar <br/>
+![Main Display](/public/assets/main.png) <br/>
+ In the seach bar type a key word or movie title <br/>
+ ![New Search for "Horror"](/public/assets/newsearch.png) <br/>
+ While the results are loading the page will display "loading.." <br/>
+ ![Loading Bar](/public/assets/loading.png) <br/>
+ Finally the results of the search as rendered to the page <br/>
+ ![Horror Movies](/public/assets/horror.png) <br/>
 
 
 # Access the app here: 
