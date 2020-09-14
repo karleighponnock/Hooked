@@ -14,8 +14,7 @@
 
 
 # Access the app here: 
-* Github: https://github.com/karleighponnock/Burger-App
-* Heroku Deployed: https://protected-tor-91451.herokuapp.com/
+* Github: https://karleighponnock.github.io/Hooked/.
 
 # Credits
 Free Code Camp Front End Projects to know in 2020 by Samuel Omole
