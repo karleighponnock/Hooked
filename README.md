@@ -4,7 +4,7 @@
 
 # How to Use Budget-Tracker:
 *The main page will display some movies and a search bar
-![Main Display](./public/assets/screenshots/main.png)
+![Main Display](/public/assets/screenshots/main.png)
  In the seach bar type a key word or movie title
  ![New Search for "Horror"](./public/assets/screenshots/newsearch.png)
  While the results are loading the page will display "loading.."
