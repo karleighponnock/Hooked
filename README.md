@@ -1,8 +1,5 @@
 # Hooked
 ## About
-    
-
-# How to Use Budget-Tracker:
 *The main page will display some movies and a search bar <br/>
 ![Main Display](./hooked/src/assets/main.png)  <br/>
  In the seach bar type a key word or movie title <br/>
